@@ -45,11 +45,3 @@ Welcome to the **Student Management System**, a simple yet functional project bu
 - ✅ Auto-grade assignment using marks  
 - ✅ Passwords validated for both roles
 
----
-
-## 📦 Folder Structure
-
-```bash
-├── student-management.sh   # 🔧 Main script
-├── students.txt            # 📄 Student records (auto-generated)
-└── README.md               # 📘 This file
